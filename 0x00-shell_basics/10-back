@@ -1,2 +1,2 @@
 #!/bin/bash
-cd ..
+cd /dir_name
